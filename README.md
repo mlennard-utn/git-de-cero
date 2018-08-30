@@ -1,4 +1,4 @@
-# Git-de-0
+# Git-de-0 (zero)
 
 ## Proyecto de Cero
  Vacio en principio
